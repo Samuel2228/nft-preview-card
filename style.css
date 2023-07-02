@@ -134,6 +134,7 @@ footer {
 @media only screen and (max-width: 600px) {
     .main-container {
         flex-direction: column;
+        height: 70vh;
         
     }
 }
